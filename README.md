@@ -2,7 +2,7 @@
 
 I'm a front-end developer, coding with ts,
 
--  I’m currently working for **[@ncuhome](https://github.com/ncuhome)**
+- 👨‍💻 I’m currently working for **[@ncuhome](https://github.com/ncuhome)**
 - 🏫 I’m currently studying in [NanChang University](http://www.ncu.edu.cn/) 
 - 📫 my email: jacbeywan@gmail.com
 
