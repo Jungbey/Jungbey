@@ -2,7 +2,7 @@
 
 I'm a front-end developer, coding with ts & react.
 
-- 👨‍💻  I’m currently working in **[@ncuhome](https://github.com/ncuhome)**
+- 👨‍💻  I’m currently contributing for **[@ncuhome](https://github.com/ncuhome)**
 - 🏫  I’m currently studying in [NanChang University](http://www.ncu.edu.cn/) 
 - ❤️  Typescript | React | NodeJS lover
 - 📫  my email: jacbeywan@gmail.com
