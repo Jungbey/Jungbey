@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Jungbey
 
-I'm a full-stack developer, focusing on front-end.
+I'm a full stack developer, focusing on front-end, coding with NodeJS & React.
 
 📫  contact me: jacbeywan@gmail.com
 
